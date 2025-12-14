@@ -1,11 +1,4 @@
-<div align="center">
+<img width="1305" height="740" alt="521cead97ac58560a97e6454b236ad2f" src="https://github.com/user-attachments/assets/cdac3751-cef5-496c-9af3-60dc47a7ea9d" />
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+<img width="1305" height="745" alt="image" src="https://github.com/user-attachments/assets/26dc569b-5afe-46e6-bcbb-72f635a1afa0" />
+#一个初步的粒子龙卷风效果
